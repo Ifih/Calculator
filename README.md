@@ -1,8 +1,8 @@
-#Simple Calculator
+## Simple Calculator
 
 This is a basic command-line calculator application written in Python. It allows users to perform fundamental arithmetic operations: addition, subtraction, multiplication, and division.
 
-Features
+## Features
 
 Addition: Add two numbers.
 
@@ -14,11 +14,14 @@ Division: Divide one number by another (includes error handling for division by 
 
 User-Friendly Interface: Simple text-based prompts for input and clear output.
 
-How to Use
+## How to Use
+
 Prerequisites
+
 To run this calculator, you need to have Python installed on your system. You can download Python from the official website: python.org
 
 Running the Application
+
 Save the file: Save the provided Python code as Calculator.py (or any other .py extension).
 
 Open a terminal or command prompt: Navigate to the directory where you saved the Calculator.py file.
@@ -33,26 +36,29 @@ Enter numbers: You will then be prompted to enter the first and second numbers f
 
 View the result: The calculator will display the result of the operation.
 
-Example Usage
-Simple Calculator
+## Example Usage
+
+#1 Simple Calculator
+
 1. ➕ Addition
 2. ➖ Subtraction
 3. ✖️ Multiplication
 4. ➗ Division
 Enter your choice (1/2/3/4): 1
 Enter first number 🙂: 10
-Enter second number 🙂: 5
-10.0 + 5.0 = 15.0
+Enter second number 🙂: 25
+10.0 + 25.0 = 35.0
 
-Simple Calculator
+#2 Simple Calculator
 
-➕ Addition
-
-➖ Subtraction
-
-✖️ Multiplication
-
-➗ Division Enter your choice (1/2/3/4): 4 Enter first number 🙂: 10 Enter second number 🙂: 0 Error! Division by zero is not allowed.😠
+1. ➕ Addition
+2. ➖ Subtraction
+3. ✖️ Multiplication
+4. ➗ Division
+Enter your choice (1/2/3/4): 4 
+Enter first number 🙂: 10 
+Enter second number 🙂: 0 
+Error! Division by zero is not allowed.😠
 
 
 ## Code Structure
