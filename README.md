@@ -44,9 +44,13 @@ View the result: The calculator will display the result of the operation.
 2. ➖ Subtraction
 3. ✖️ Multiplication
 4. ➗ Division
+
 Enter your choice (1/2/3/4): 1
+
 Enter first number 🙂: 10
+
 Enter second number 🙂: 25
+
 10.0 + 25.0 = 35.0
 
 #2 Simple Calculator
@@ -55,9 +59,13 @@ Enter second number 🙂: 25
 2. ➖ Subtraction
 3. ✖️ Multiplication
 4. ➗ Division
+
 Enter your choice (1/2/3/4): 4 
+
 Enter first number 🙂: 10 
+
 Enter second number 🙂: 0 
+
 Error! Division by zero is not allowed.😠
 
 
