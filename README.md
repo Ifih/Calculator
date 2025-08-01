@@ -1,7 +1,9 @@
-Simple Calculator
+#Simple Calculator
+
 This is a basic command-line calculator application written in Python. It allows users to perform fundamental arithmetic operations: addition, subtraction, multiplication, and division.
 
 Features
+
 Addition: Add two numbers.
 
 Subtraction: Subtract one number from another.
